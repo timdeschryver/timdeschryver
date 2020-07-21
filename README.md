@@ -1,7 +1,7 @@
-# Using MSW (Mock Service Worker) in an Angular project
+# Testing RxJS streams with rxjs-for-await
 
-Using MSW to mock your server in an Angular project
+How does rxjs-for-await compare to other approaches when it comes to testing RxJS streams, and what I like about these tests.
 
-[Read more](https://timdeschryver.dev/blog/using-msw-in-an-angular-project)
+[Read more](https://timdeschryver.dev/blog/testing-rxjs-streams-with-rxjs-for-await)
 
-![Banner](https://timdeschryver.dev/blog/using-msw-in-an-angular-project/images/banner.jpg)
+![Banner](https://timdeschryver.dev/blog/testing-rxjs-streams-with-rxjs-for-await/images/banner.jpg)
