@@ -1,7 +1,7 @@
-# Testing RxJS streams with rxjs-for-await
+# A use case for the RxJS expand operator
 
-How does rxjs-for-await compare to other approaches when it comes to testing RxJS streams, and what I like about these tests.
+How I used the expand operator to create a retry functionality in rx-query.
 
-[Read more](https://timdeschryver.dev/blog/testing-rxjs-streams-with-rxjs-for-await)
+[Read more](https://timdeschryver.dev/blog/a-use-case-for-the-rxjs-expand-operator)
 
-![Banner](https://timdeschryver.dev/blog/testing-rxjs-streams-with-rxjs-for-await/images/banner.jpg)
+![Banner](https://timdeschryver.dev/blog/a-use-case-for-the-rxjs-expand-operator/images/banner.jpg)
