@@ -1,7 +1,7 @@
-# A use case for the RxJS expand operator
+# SQL Server Profiler, underused and undervalued
 
-How I used the expand operator to create a retry functionality in rx-query.
+How to use the SQL Server Profiler as a utility knife to get a better understanding of your system.
 
-[Read more](https://timdeschryver.dev/blog/a-use-case-for-the-rxjs-expand-operator)
+[Read more](https://timdeschryver.dev/blog/sql-server-profiler-underused-and-undervalued)
 
-![Banner](https://timdeschryver.dev/blog/a-use-case-for-the-rxjs-expand-operator/images/banner.jpg)
+![Banner](https://timdeschryver.dev/blog/sql-server-profiler-underused-and-undervalued/images/banner.jpg)
