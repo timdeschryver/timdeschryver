@@ -1,7 +1,7 @@
-# SQL Server Profiler, underused and undervalued
+# Getting to know SQL Server Extended Events
 
-How to use the SQL Server Profiler as a utility knife to get a better understanding of your system.
+How to convert your SQL Profiler template to an XEvent template.
 
-[Read more](https://timdeschryver.dev/blog/sql-server-profiler-underused-and-undervalued)
+[Read more](https://timdeschryver.dev/blog/getting-to-know-sql-server-extended-events)
 
-![Banner](https://timdeschryver.dev/blog/sql-server-profiler-underused-and-undervalued/images/banner.jpg)
+![Banner](https://timdeschryver.dev/blog/getting-to-know-sql-server-extended-events/images/banner.jpg)
