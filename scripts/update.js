@@ -1,31 +1,60 @@
-const { get } = require('https');
-const { writeFileSync } = require('fs');
-const { format } = require('prettier');
-const { stripIndent } = require('common-tags');
+const { get } = require('https')
+const { writeFileSync, readFileSync } = require('fs')
+const { format, resolveConfig } = require('prettier')
+const { stripIndents } = require('common-tags')
+const { xml2js } = require('xml-js')
 
-get('https://timdeschryver.dev/blog/latest.json', (res) => {
-  let data = '';
-  res.on('data', (chunk) => {
-    data += chunk;
-  });
-  res.on('end', () => {
-    updateReadme(JSON.parse(data));
-  });
+const FEED = 'https://timdeschryver.dev/blog/rss.xml'
+const NUMBER_OF_POSTS = 5
+const README = './README.md'
+
+get(FEED, (res) => {
+	let xml = ''
+	res.on('data', (chunk) => {
+		xml += chunk
+	})
+	res.on('end', () => {
+		const data = xml2js(xml, { compact: true })
+		updateReadme(data)
+	})
 }).on('error', (e) => {
-  console.error(e);
-});
+	console.error(e)
+})
 
-function updateReadme(post) {
-  const content = stripIndent`
-    # ${post.title}
-    ${post.description}
+function updateReadme(posts) {
+	const readme = readFileSync(README, 'utf-8')
 
-    [Read more](${post.canonical_url})
-    
-    ![Banner](${post.banner})
-  `;
-  const formatted = format(content, {
-    parser: 'markdown',
-  });
-  writeFileSync('./README.md', formatted);
+	const recentBlogPosts = posts.rss.channel.item
+		.slice(0, NUMBER_OF_POSTS)
+		.map((p) => `- [${p.title._cdata.trim()}](${p.link._text.trim()})`)
+		.concat('- [More posts](https://timdeschryver.dev/blog)')
+		.join('\n')
+	const TITLE = '## Recent blog posts'
+	const TAG_OPEN = `<!-- BLOG:START -->`
+	const TAG_CLOSE = `<!-- BLOG:END -->`
+	const indexBefore = readme.indexOf(TAG_OPEN) + TAG_OPEN.length
+	const indexAfter = readme.indexOf(TAG_CLOSE)
+	const readmeContentChunkBreakBefore = readme.substring(0, indexBefore)
+	const readmeContentChunkBreakAfter = readme.substring(indexAfter)
+
+	const readmeNew = stripIndents`
+    ${readmeContentChunkBreakBefore}
+		
+		${TITLE}
+
+		${recentBlogPosts}
+
+		${readmeContentChunkBreakAfter}
+  `
+
+	formatMd(readmeNew)
+}
+
+function formatMd(content) {
+	const prettierConfig = resolveConfig.sync(__dirname)
+	const formatted = format(content, {
+		...prettierConfig,
+		parser: 'markdown',
+	})
+	writeFileSync(README, formatted)
 }
