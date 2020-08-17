@@ -10,7 +10,7 @@
 - [A use case for the RxJS expand operator](https://timdeschryver.dev/blog/a-use-case-for-the-rxjs-expand-operator)
 - [Testing RxJS streams with rxjs-for-await](https://timdeschryver.dev/blog/testing-rxjs-streams-with-rxjs-for-await)
 - [Using MSW (Mock Service Worker) in an Angular project](https://timdeschryver.dev/blog/using-msw-in-an-angular-project)
-- [Read more](https://timdeschryver.dev/blog)
+- [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
 <!-- prettier-ignore-end -->
