@@ -14,3 +14,5 @@
 
 <!-- BLOG:END -->
 <!-- prettier-ignore-end -->
+
+## [Support me](https://www.paypal.com/donate/?hosted_button_id=59M5TFPQJS8SQ)
