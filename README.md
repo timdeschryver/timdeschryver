@@ -5,11 +5,11 @@
 
 ## Recent blog posts
 
+- [How to set up a dynamic CI/CD pipeline with Github Actions](https://timdeschryver.dev/blog/how-to-set-up-a-dynamic-ci-cd-pipeline-with-github-actions)
 - [Automagically optimize your images with Squoosh](https://timdeschryver.dev/blog/automagically-optimize-your-images-with-squoosh)
 - [Environment variables with SvelteKit](https://timdeschryver.dev/blog/environment-variables-with-sveltekit)
 - [A generic Angular template-driven validator](https://timdeschryver.dev/blog/a-generic-angular-template-driven-validator)
 - [A practical guide to Angular Template-Driven Forms](https://timdeschryver.dev/blog/a-practical-guide-to-angular-template-driven-forms)
-- [A new way to validate Angular Forms](https://timdeschryver.dev/blog/a-new-way-to-validate-angular-forms)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
