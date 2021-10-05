@@ -5,7 +5,7 @@
 
 ## Recent blog posts
 
-- [The simplicity of .NET Endpoints](https://timdeschryver.dev/blog/the-simplicity-of-net-endpoints)
+- [The simplicity of ASP.NET Endpoints](https://timdeschryver.dev/blog/the-simplicity-of-net-endpoints)
 - [Maybe it's time to rethink our project structure with .NET 6](https://timdeschryver.dev/blog/maybe-its-time-to-rethink-our-project-structure-with-dot-net-6)
 - [Pattern Matching Examples in C#](https://timdeschryver.dev/blog/pattern-matching-examples-in-csharp)
 - [Building incremental views with XState Parallel States](https://timdeschryver.dev/blog/building-incremental-views-with-xstate-parallel-states)
