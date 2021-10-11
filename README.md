@@ -5,11 +5,11 @@
 
 ## Recent blog posts
 
+- [Refactor Functional Tests to support Minimal Web APIs](https://timdeschryver.dev/blog/refactor-functional-tests-to-support-minimal-web-apis)
 - [The simplicity of ASP.NET Endpoints](https://timdeschryver.dev/blog/the-simplicity-of-net-endpoints)
 - [Maybe it's time to rethink our project structure with .NET 6](https://timdeschryver.dev/blog/maybe-its-time-to-rethink-our-project-structure-with-dot-net-6)
 - [Pattern Matching Examples in C#](https://timdeschryver.dev/blog/pattern-matching-examples-in-csharp)
 - [Building incremental views with XState Parallel States](https://timdeschryver.dev/blog/building-incremental-views-with-xstate-parallel-states)
-- [Solving Angular slow renders with NgRx selectors](https://timdeschryver.dev/blog/solving-angular-slow-renders-with-ngrx-selectors)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
