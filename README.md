@@ -5,11 +5,11 @@
 
 ## Recent blog posts
 
+- [Writing your first Playwright test](https://timdeschryver.dev/blog/writing-your-first-playwright-test)
 - [TIL params inheritance strategy to always have access to parent route info](https://timdeschryver.dev/blog/til-paramsinheritancestrategy-to-always-have-access-to-parent-route-info)
 - [Be proactive when you join an Angular project](https://timdeschryver.dev/blog/be-proactive-when-you-join-an-angular-project)
 - [Single Component Angular Modules and Component Tests go hand in hand](https://timdeschryver.dev/blog/single-component-angular-modules-and-component-tests-go-hand-in-hand)
 - [Writing a performant client-side filter with [hidden] and trackBy](https://timdeschryver.dev/blog/writing-a-performant-client-side-filter-with-hidden-and-trackby)
-- [How I've set up my new Windows development environment in 2022](https://timdeschryver.dev/blog/how-i-have-set-up-my-new-windows-development-environment-in-2022)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
