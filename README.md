@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [Feature Flags in .NET, from simple to more advanced](https://timdeschryver.dev/blog/feature-flags-in-net-from-simple-to-more-advanced)
 - [Specify your Node.js version for the Azure Static Web App GitHub Action](https://timdeschryver.dev/blog/specify-your-nodejs-version-for-the-azure-static-web-app-github-action)
 - [Tye, starting and running multiple APIs with a single command](https://timdeschryver.dev/blog/tye-starting-and-running-multiple-apis-with-a-single-command)
 - [Using Playwright test shards in combination with a job matrix to improve your CI speed](https://timdeschryver.dev/blog/using-playwright-test-shards-in-combination-with-a-job-matrix-to-improve-your-ci-speed)
 - [How to stay up-to-date](https://timdeschryver.dev/blog/how-to-stay-up-to-date)
-- [Directory.Packages.props, a solution to unify your NuGet package versions](https://timdeschryver.dev/blog/directorypackagesprops-a-solution-to-unify-your-nuget-package-versions)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
