@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [.NET Debugging Tips](https://timdeschryver.dev/blog/dotnet-debugging-tips)
 - [Enable shell scripts for the JetBrains Toolbox App](https://timdeschryver.dev/blog/enable-shell-scripts-for-the-jetbrains-toolbox-app)
 - [Feature Flags in .NET, from simple to more advanced](https://timdeschryver.dev/blog/feature-flags-in-net-from-simple-to-more-advanced)
 - [Specify your Node.js version for the Azure Static Web App GitHub Action](https://timdeschryver.dev/blog/specify-your-nodejs-version-for-the-azure-static-web-app-github-action)
 - [Tye, starting and running multiple APIs with a single command](https://timdeschryver.dev/blog/tye-starting-and-running-multiple-apis-with-a-single-command)
-- [Using Playwright test shards in combination with a job matrix to improve your CI speed](https://timdeschryver.dev/blog/using-playwright-test-shards-in-combination-with-a-job-matrix-to-improve-your-ci-speed)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
