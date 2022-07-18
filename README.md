@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [Exploring the new output caching middleware](https://timdeschryver.dev/blog/exploring-the-new-output-caching-middleware)
 - [Why we should verify HTTP response bodies, and why we should use zod for this](https://timdeschryver.dev/blog/why-we-should-verify-http-response-bodies-and-why-we-should-use-zod-for-this)
 - [.NET Debugging Tips](https://timdeschryver.dev/blog/dotnet-debugging-tips)
 - [Enable shell scripts for the JetBrains Toolbox App](https://timdeschryver.dev/blog/enable-shell-scripts-for-the-jetbrains-toolbox-app)
 - [Feature Flags in .NET, from simple to more advanced](https://timdeschryver.dev/blog/feature-flags-in-net-from-simple-to-more-advanced)
-- [Specify your Node.js version for the Azure Static Web App GitHub Action](https://timdeschryver.dev/blog/specify-your-nodejs-version-for-the-azure-static-web-app-github-action)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
