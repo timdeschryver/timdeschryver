@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [Using an Azure DevOps Pull Request Template to remind your team about the Definition of Done](https://timdeschryver.dev/blog/using-an-azure-devops-pull-request-template-to-remind-your-team-about-the-definition-of-done)
 - [How to upload files with Playwright](https://timdeschryver.dev/blog/how-to-upload-files-with-playwright)
 - [Get access to the deployed Azure Static Webb App URL within your GitHub Workflow](https://timdeschryver.dev/blog/get-access-to-the-deployed-azure-static-web-app-url-within-your-github-workflow)
 - [Exploring the new output caching middleware](https://timdeschryver.dev/blog/exploring-the-new-output-caching-middleware)
 - [Why we should verify HTTP response bodies, and why we should use zod for this](https://timdeschryver.dev/blog/why-we-should-verify-http-response-bodies-and-why-we-should-use-zod-for-this)
-- [.NET Debugging Tips](https://timdeschryver.dev/blog/dotnet-debugging-tips)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
