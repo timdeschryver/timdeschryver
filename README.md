@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [How zod-fixture can help with your test setups](https://timdeschryver.dev/blog/how-zod-fixture-can-help-with-your-test-setups)
 - [Keep your Playwright tests structured with steps](https://timdeschryver.dev/blog/keep-your-playwright-tests-structured-with-steps)
 - [New in Entity Framework 7: Bulk Operations with ExecuteDelete and ExecuteUpdate](https://timdeschryver.dev/blog/new-in-entity-framework-7-bulk-operations-with-executedelete-and-executeupdate)
 - [Using an Azure DevOps Pull Request Template to remind your team about the Definition of Done](https://timdeschryver.dev/blog/using-an-azure-devops-pull-request-template-to-remind-your-team-about-the-definition-of-done)
 - [How to upload files with Playwright](https://timdeschryver.dev/blog/how-to-upload-files-with-playwright)
-- [Get access to the deployed Azure Static Webb App URL within your GitHub Workflow](https://timdeschryver.dev/blog/get-access-to-the-deployed-azure-static-web-app-url-within-your-github-workflow)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
