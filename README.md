@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [You should take advantage of the improved NgRx APIs](https://timdeschryver.dev/blog/you-should-take-advantage-of-the-improved-ngrx-apis)
 - [Playwright in an Azure DevOps Pipeline](https://timdeschryver.dev/blog/playwright-in-an-azure-devops-pipeline)
 - [Testing localization with Playwright](https://timdeschryver.dev/blog/testing-localization-with-playwright)
 - [How to disable githooks in an Azure DevOps YAML Pipeline](https://timdeschryver.dev/blog/how-to-disable-githooks-in-an-azure-devops-yaml-pipeline)
 - [Watch out what you expose with Angular Interceptors](https://timdeschryver.dev/blog/watch-out-what-you-expose-with-angular-interceptors)
-- [Using Geolocation in Playwright tests](https://timdeschryver.dev/blog/using-geolocation-in-playwright-tests)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
