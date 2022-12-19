@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [Using Angular Testing Library with Test Harnesses](https://timdeschryver.dev/blog/using-angular-testing-library-with-test-harnesses)
 - [Intercepting HTTP Requests with Playwright](https://timdeschryver.dev/blog/intercepting-http-requests-with-playwright)
 - [Assertion Scopes, the one FluentAssertions feature you didn't know you needed](https://timdeschryver.dev/blog/assertion-scopes-the-one-fluentassertions-feature-you-didnt-know-you-needed)
 - [You should take advantage of the improved NgRx APIs](https://timdeschryver.dev/blog/you-should-take-advantage-of-the-improved-ngrx-apis)
 - [Playwright in an Azure DevOps Pipeline](https://timdeschryver.dev/blog/playwright-in-an-azure-devops-pipeline)
-- [Testing localization with Playwright](https://timdeschryver.dev/blog/testing-localization-with-playwright)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
