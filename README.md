@@ -19,7 +19,7 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
-- [I tried the Angular Standalone migration, and here is the results](https://timdeschryver.dev/blog/i-tried-the-angular-standalone-migration-and-here-is-the-results)
+- [I tried the Angular Standalone migration, and here is the result](https://timdeschryver.dev/blog/i-tried-the-angular-standalone-migration-and-here-is-the-result)
 - [Improve your test experience with Playwright Soft Assertions](https://timdeschryver.dev/blog/improve-your-test-experience-with-playwright-soft-assertions)
 - [Adding OpenTelemetry to an Angular Application](https://timdeschryver.dev/blog/adding-opentelemetry-to-an-angular-application)
 - [Consuming SQL Functions with Entity Framework](https://timdeschryver.dev/blog/consuming-sql-functions-with-entity-framework)
