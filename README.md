@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [Invoke the Azure DevOps API from within your Azure DevOps pipeline](https://timdeschryver.dev/blog/invoke-the-azure-devops-api-from-within-your-azure-devops-pipeline)
 - [Get easy access to Angular route and query parameters with zod](https://timdeschryver.dev/blog/get-easy-access-to-angular-route-and-query-parameters-with-zod)
 - [I tried the Angular Standalone migration, and here is the result](https://timdeschryver.dev/blog/i-tried-the-angular-standalone-migration-and-here-is-the-result)
 - [Improve your test experience with Playwright Soft Assertions](https://timdeschryver.dev/blog/improve-your-test-experience-with-playwright-soft-assertions)
 - [Adding OpenTelemetry to an Angular Application](https://timdeschryver.dev/blog/adding-opentelemetry-to-an-angular-application)
-- [Consuming SQL Functions with Entity Framework](https://timdeschryver.dev/blog/consuming-sql-functions-with-entity-framework)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
