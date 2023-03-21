@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [You can now return unmapped types from raw SQL select statements with Entity Framework 8](https://timdeschryver.dev/blog/you-can-now-return-unmapped-types-from-raw-sql-select-statements-with-entity-framework-8)
 - [Create and run Playwright test sets using tags and grep](https://timdeschryver.dev/blog/create-and-run-playwright-test-sets-using-tags-and-grep)
 - [Revamped: Authentication with Playwright](https://timdeschryver.dev/blog/revamped-authentication-with-playwright)
 - [Angular standalone components and Angular Testing Library make component tests easier](https://timdeschryver.dev/blog/angular-standalone-components-and-angular-testing-library-make-component-tests-easier)
 - [Invoke the Azure DevOps API from within your Azure DevOps pipeline](https://timdeschryver.dev/blog/invoke-the-azure-devops-api-from-within-your-azure-devops-pipeline)
-- [Get easy access to Angular route and query parameters with zod](https://timdeschryver.dev/blog/get-easy-access-to-angular-route-and-query-parameters-with-zod)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
