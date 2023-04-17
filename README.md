@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [The different retry APIs from Playwright](https://timdeschryver.dev/blog/the-different-retry-apis-from-playwright)
 - [Let's make our SPA more secure by setting up a .NET BFF with Duende and Auth0](https://timdeschryver.dev/blog/lets-make-our-spa-more-secure-by-setting-up-a-net-bff-with-duende-and-auth0)
 - [Include attachments to your Playwright report](https://timdeschryver.dev/blog/include-attachments-to-your-playwright-report)
 - [You can now return unmapped types from raw SQL select statements with Entity Framework 8](https://timdeschryver.dev/blog/you-can-now-return-unmapped-types-from-raw-sql-select-statements-with-entity-framework-8)
 - [Create and run Playwright test sets using tags and grep](https://timdeschryver.dev/blog/create-and-run-playwright-test-sets-using-tags-and-grep)
-- [Revamped: Authentication with Playwright](https://timdeschryver.dev/blog/revamped-authentication-with-playwright)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
