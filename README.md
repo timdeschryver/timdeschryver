@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [Fixing Angular Standalone Components that have a circular dependency](https://timdeschryver.dev/blog/fixing-angular-standalone-components-that-have-a-circular-dependency)
 - [Prevent a Hangfire job from running when it is already active](https://timdeschryver.dev/blog/prevent-a-hangfire-job-from-running-when-it-is-already-active)
 - [Let's make our SPA more secure by consuming a Duende BFF with Angular](https://timdeschryver.dev/blog/lets-make-our-spa-more-secure-by-consuming-a-duende-bff-with-angular)
 - [The different retry APIs from Playwright](https://timdeschryver.dev/blog/the-different-retry-apis-from-playwright)
 - [Let's make our SPA more secure by setting up a .NET BFF with Duende and Auth0](https://timdeschryver.dev/blog/lets-make-our-spa-more-secure-by-setting-up-a-net-bff-with-duende-and-auth0)
-- [Include attachments to your Playwright report](https://timdeschryver.dev/blog/include-attachments-to-your-playwright-report)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
