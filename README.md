@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [Treat your .NET Minimal API Endpoint as the application layer](https://timdeschryver.dev/blog/treat-your-net-minimal-api-endpoint-as-the-application-layer)
 - [How the new UI mode improves the Playwright experience](https://timdeschryver.dev/blog/how-the-new-ui-mode-improves-the-playwright-experience)
 - [Refactor your .NET HTTP Clients to Typed HTTP Clients](https://timdeschryver.dev/blog/refactor-your-net-http-clients-to-typed-http-clients)
 - [Fixing Angular Standalone Components that have a circular dependency](https://timdeschryver.dev/blog/fixing-angular-standalone-components-that-have-a-circular-dependency)
 - [Prevent a Hangfire job from running when it is already active](https://timdeschryver.dev/blog/prevent-a-hangfire-job-from-running-when-it-is-already-active)
-- [Let's make our SPA more secure by consuming a Duende BFF with Angular](https://timdeschryver.dev/blog/lets-make-our-spa-more-secure-by-consuming-a-duende-bff-with-angular)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
