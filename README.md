@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [Configuring angular-oidc-client with the new functional APIs](https://timdeschryver.dev/blog/configuring-angular-oidc-client-with-the-new-functional-apis)
 - [Playwright API testing with zod](https://timdeschryver.dev/blog/playwright-api-testing-with-zod)
 - [Treat your .NET Minimal API Endpoint as the application layer](https://timdeschryver.dev/blog/treat-your-net-minimal-api-endpoint-as-the-application-layer)
 - [How the new UI mode improves the Playwright experience](https://timdeschryver.dev/blog/how-the-new-ui-mode-improves-the-playwright-experience)
 - [Refactor your .NET HTTP Clients to Typed HTTP Clients](https://timdeschryver.dev/blog/refactor-your-net-http-clients-to-typed-http-clients)
-- [Fixing Angular Standalone Components that have a circular dependency](https://timdeschryver.dev/blog/fixing-angular-standalone-components-that-have-a-circular-dependency)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
