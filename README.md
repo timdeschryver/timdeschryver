@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [A cheat sheet for migrating from Moq to NSubstitute](https://timdeschryver.dev/blog/a-cheat-sheet-for-migrating-from-moq-to-nsubstitute)
 - [How to globally register Injection Tokens within the Angular TestBed](https://timdeschryver.dev/blog/how-to-globally-register-injection-tokens-within-the-angular-testbed)
 - [Translating Exceptions into Problem Details Responses](https://timdeschryver.dev/blog/translating-exceptions-into-problem-details-responses)
 - [Entity framework features I wish I knew earlier](https://timdeschryver.dev/blog/entity-framework-features-i-wish-i-knew-earlier)
 - [Configuring angular-auth-oidc-client with the new functional APIs](https://timdeschryver.dev/blog/configuring-angular-auth-oidc-client-with-the-new-functional-apis)
-- [Playwright API testing with zod](https://timdeschryver.dev/blog/playwright-api-testing-with-zod)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
