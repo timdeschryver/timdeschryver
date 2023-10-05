@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [Wolverine is for the developers](https://timdeschryver.dev/blog/wolverine-is-for-the-developers)
 - [Merging your Playwright sharded reports into a single HTML report](https://timdeschryver.dev/blog/merging-your-playwright-sharded-reports-into-a-single-html-report)
 - [Implementing a Feature Flag-based Endpoint Filter](https://timdeschryver.dev/blog/implementing-a-feature-flag-based-endpoint-filter)
 - [A cheat sheet to migrate from Moq to NSubstitute](https://timdeschryver.dev/blog/a-cheat-sheet-to-migrate-from-moq-to-nsubstitute)
 - [How to globally register Injection Tokens within the Angular TestBed](https://timdeschryver.dev/blog/how-to-globally-register-injection-tokens-within-the-angular-testbed)
-- [Translating Exceptions into Problem Details Responses](https://timdeschryver.dev/blog/translating-exceptions-into-problem-details-responses)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
