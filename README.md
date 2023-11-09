@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [Wolverine embraces Observability](https://timdeschryver.dev/blog/wolverine-embraces-observability)
 - [How to fully leverage Wolverine with its HTTP package](https://timdeschryver.dev/blog/how-to-fully-leverage-wolverine-with-its-http-package)
 - [Wolverine is for the developers](https://timdeschryver.dev/blog/wolverine-is-for-the-developers)
 - [Merging your Playwright sharded reports into a single HTML report](https://timdeschryver.dev/blog/merging-your-playwright-sharded-reports-into-a-single-html-report)
 - [Implementing a Feature Flag-based Endpoint Filter](https://timdeschryver.dev/blog/implementing-a-feature-flag-based-endpoint-filter)
-- [A cheat sheet to migrate from Moq to NSubstitute](https://timdeschryver.dev/blog/a-cheat-sheet-to-migrate-from-moq-to-nsubstitute)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
