@@ -19,11 +19,11 @@ Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like 
 
 ## Recent blog posts
 
+- [How to include an Angular Project within .NET Aspire](https://timdeschryver.dev/blog/how-to-include-an-angular-project-within-net-aspire)
 - [Testing Deferrable Views with Angular Testing Library](https://timdeschryver.dev/blog/testing-deferrable-views-with-angular-testing-library)
 - [Wolverine embraces Observability](https://timdeschryver.dev/blog/wolverine-embraces-observability)
 - [How to fully leverage Wolverine with its HTTP package](https://timdeschryver.dev/blog/how-to-fully-leverage-wolverine-with-its-http-package)
 - [Wolverine is for the developers](https://timdeschryver.dev/blog/wolverine-is-for-the-developers)
-- [Merging your Playwright sharded reports into a single HTML report](https://timdeschryver.dev/blog/merging-your-playwright-sharded-reports-into-a-single-html-report)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
