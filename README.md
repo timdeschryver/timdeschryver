@@ -1,7 +1,18 @@
+<p align="center">
+  <samp>
+    <a href="https://timdeschryver.dev">me</a> .
+    <a href="https://timdeschryver.dev/blog">blog</a> .
+    <a href="https://timdeschryver.dev/bits">bits</a> .
+    <a href="https://timdeschryver.dev/twitter">twitter</a> .
+    <a href="https://timdeschryver.dev/linkedin">linkedin</a> .
+    <a href="https://ko-fi.com/timdeschryver">buy me a coffee</a>
+  </samp>
+</p>
+
 # Hi, I'm Tim 👋
 
 A software engineer from Belgium who enjoys to **[blog](https://timdeschryver.dev/blog)** about
-my experiences with the aim to help others and my future self, primarily on
+my experiences with the aim to help others and my future self, focused on
 **Angular** and **.NET**.
 
 Lifelong learner and **[open-source enthusiast](https://github.com/timdeschryver)**, mainly working **[NgRx](https://ngrx.io/)** and **[Angular Testing Library](https://testing-library.com/docs/angular-testing-library/)**.
@@ -10,9 +21,11 @@ Recognized by Microsoft as a **[Most Valuable Professional (MVP)](https://mvp.mi
 
 Also a hobby **runner**.
 
-Find me on Twitter as **[@tim_deschryver](https://timdeschryver.dev/twitter)**.
-
-Feel free to **[buy me a coffee](https://ko-fi.com/timdeschryver)** if you like my work.
+<div align="center">
+  <a href="https://ko-fi.com/timdeschryver">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"  />
+  </a>  
+</div>
 
 <!-- prettier-ignore-start -->
 <!-- BLOG:START -->
