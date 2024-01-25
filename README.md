@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [Using Zod's schema to render a reusable and dynamic Angular table component](https://timdeschryver.dev/blog/using-zods-schema-to-render-a-reusable-and-dynamic-angular-table-component)
 - [Multiple releases using the same, but configurable, Angular Standalone Application build](https://timdeschryver.dev/blog/multiple-releases-using-the-same-but-configurable-angular-standalone-application-build)
 - [The decorator pattern using .NET's dependency injection](https://timdeschryver.dev/blog/the-decorator-pattern-using-nets-dependency-injection)
 - [Intercepting HTTP requests with a DelegatingHandler](https://timdeschryver.dev/blog/intercepting-http-requests-with-a-delegatinghandler)
 - [How to include an Angular Project within .NET Aspire](https://timdeschryver.dev/blog/how-to-include-an-angular-project-within-net-aspire)
-- [Testing Deferrable Views with Angular Testing Library](https://timdeschryver.dev/blog/testing-deferrable-views-with-angular-testing-library)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
