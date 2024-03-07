@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [Angular has your back when it comes to XSS](https://timdeschryver.dev/blog/angular-has-your-back-when-it-comes-to-xss)
 - [Bringing the power of Signals to Angular Forms with Signal Forms](https://timdeschryver.dev/blog/bringing-the-power-of-signals-to-angular-forms-with-signal-forms)
 - [Using Zod's schema to render a reusable and dynamic Angular table component](https://timdeschryver.dev/blog/using-zods-schema-to-render-a-reusable-and-dynamic-angular-table-component)
 - [Multiple releases using the same, but configurable, Angular Standalone Application build](https://timdeschryver.dev/blog/multiple-releases-using-the-same-but-configurable-angular-standalone-application-build)
 - [The decorator pattern using .NET's dependency injection](https://timdeschryver.dev/blog/the-decorator-pattern-using-nets-dependency-injection)
-- [Intercepting HTTP requests with a DelegatingHandler](https://timdeschryver.dev/blog/intercepting-http-requests-with-a-delegatinghandler)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
