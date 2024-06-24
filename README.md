@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [The different ways to load your OpenID configuration for Angular Auth OIDC Client](https://timdeschryver.dev/blog/the-different-ways-to-load-your-openid-configuration-for-angular-auth-oidc-client)
 - [Signals in Angular Auth OIDC Client](https://timdeschryver.dev/blog/signals-in-angular-auth-oidc-client)
 - [Consuming .NET Feature Flags within an Angular Application](https://timdeschryver.dev/blog/consuming-net-feature-flags-within-an-angular-application)
 - [Adding .NET Code Coverage to your Azure DevOps pipeline](https://timdeschryver.dev/blog/adding-net-code-coverage-to-your-azure-devops-pipeline)
 - [Testing Signals with Angular Testing Library](https://timdeschryver.dev/blog/testing-signals-with-angular-testing-library)
-- [Angular has your back when it comes to XSS](https://timdeschryver.dev/blog/angular-has-your-back-when-it-comes-to-xss)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
