@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [The new on property improves output testing in Angular Testing Library](https://timdeschryver.dev/blog/the-new-on-property-improves-output-testing-in-angular-testing-library)
 - [Integrating Tailwind CSS in Blazor](https://timdeschryver.dev/blog/integrating-tailwind-css-in-blazor)
 - [The different ways to load your OpenID configuration for Angular Auth OIDC Client](https://timdeschryver.dev/blog/the-different-ways-to-load-your-openid-configuration-for-angular-auth-oidc-client)
 - [Signals in Angular Auth OIDC Client](https://timdeschryver.dev/blog/signals-in-angular-auth-oidc-client)
 - [Consuming .NET Feature Flags within an Angular Application](https://timdeschryver.dev/blog/consuming-net-feature-flags-within-an-angular-application)
-- [Adding .NET Code Coverage to your Azure DevOps pipeline](https://timdeschryver.dev/blog/adding-net-code-coverage-to-your-azure-devops-pipeline)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
