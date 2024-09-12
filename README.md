@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [My recommendations to configure Visual Studio Code for Angular Development](https://timdeschryver.dev/blog/my-recommendations-to-configure-visual-studio-code-for-angular-development)
 - [Nice to knows when implementing policy-based authorization in .NET](https://timdeschryver.dev/blog/nice-to-knows-when-implementing-policy-based-authorization-in-net)
 - [Angular Testing Library with Vitest](https://timdeschryver.dev/blog/angular-testing-library-with-vitest)
 - [The new on property improves output testing in Angular Testing Library](https://timdeschryver.dev/blog/the-new-on-property-improves-output-testing-in-angular-testing-library)
 - [Integrating Tailwind CSS in Blazor](https://timdeschryver.dev/blog/integrating-tailwind-css-in-blazor)
-- [The different ways to load your OpenID configuration for Angular Auth OIDC Client](https://timdeschryver.dev/blog/the-different-ways-to-load-your-openid-configuration-for-angular-auth-oidc-client)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
