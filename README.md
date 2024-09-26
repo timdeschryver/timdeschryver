@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [Taking a look at the Problem Details enhancements in ASP.NET 9](https://timdeschryver.dev/blog/taking-a-look-at-the-problem-details-enhancements-in-aspnet-9)
 - [My recommendations to configure Visual Studio Code for Angular Development](https://timdeschryver.dev/blog/my-recommendations-to-configure-visual-studio-code-for-angular-development)
 - [Nice to knows when implementing policy-based authorization in .NET](https://timdeschryver.dev/blog/nice-to-knows-when-implementing-policy-based-authorization-in-net)
 - [Angular Testing Library with Vitest](https://timdeschryver.dev/blog/angular-testing-library-with-vitest)
 - [The new on property improves output testing in Angular Testing Library](https://timdeschryver.dev/blog/the-new-on-property-improves-output-testing-in-angular-testing-library)
-- [Integrating Tailwind CSS in Blazor](https://timdeschryver.dev/blog/integrating-tailwind-css-in-blazor)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
