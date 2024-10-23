@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [New LINQ methods in C# 13: Index, CountBy, AggregateBy](https://timdeschryver.dev/blog/new-linq-methods-in-c-13-index-countby-aggregateby)
 - [Create a custom SQL expression with Entity Framework, or how to make EF interpret your Value Types](https://timdeschryver.dev/blog/create-a-custom-sql-expression-with-entity-framework-or-how-to-make-ef-interpret-your-value-types)
 - [Taking a look at the Problem Details enhancements in ASP.NET 9](https://timdeschryver.dev/blog/taking-a-look-at-the-problem-details-enhancements-in-aspnet-9)
 - [My recommendations to configure Visual Studio Code for Angular Development](https://timdeschryver.dev/blog/my-recommendations-to-configure-visual-studio-code-for-angular-development)
 - [Nice to knows when implementing policy-based authorization in .NET](https://timdeschryver.dev/blog/nice-to-knows-when-implementing-policy-based-authorization-in-net)
-- [Angular Testing Library with Vitest](https://timdeschryver.dev/blog/angular-testing-library-with-vitest)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
