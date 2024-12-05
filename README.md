@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [Creating an Angular application that's used by different user groups](https://timdeschryver.dev/blog/creating-an-angular-application-thats-used-by-different-user-groups)
 - [Resolving a failing NX post-install](https://timdeschryver.dev/blog/resolving-a-failing-nx-post-install)
 - [Obfuscating data in SQL Server](https://timdeschryver.dev/blog/obfuscating-data-in-sql-server)
 - [What about my API documentation now that Swashbuckle (Swagger) is no longer a dependency in ASP.NET 9](https://timdeschryver.dev/blog/what-about-my-api-documentation-now-that-swashbuckle-is-no-longer-a-dependency-in-aspnet-9)
 - [New LINQ methods in C# 13: Index, CountBy, AggregateBy](https://timdeschryver.dev/blog/new-linq-methods-in-c-13-index-countby-aggregateby)
-- [Create a custom SQL expression with Entity Framework, or how to make EF interpret your Value Types](https://timdeschryver.dev/blog/create-a-custom-sql-expression-with-entity-framework-or-how-to-make-ef-interpret-your-value-types)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
