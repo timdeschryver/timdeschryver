@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [ESLint flat config with EcmaScript modules (mjs) in an NX workspace](https://timdeschryver.dev/blog/eslint-flat-config-with-ecmascript-modules-mjs-in-an-nx-workspace)
 - [Sending (browser) OpenTelemetry traces from an Angular Application to .NET Aspire](https://timdeschryver.dev/blog/Sending-browser-opentelemetry-traces-from-an-angular-application-to-net-aspire)
 - [Creating an Angular application that's used by different user groups](https://timdeschryver.dev/blog/creating-an-angular-application-thats-used-by-different-user-groups)
 - [Resolving a failing NX post-install](https://timdeschryver.dev/blog/resolving-a-failing-nx-post-install)
 - [Obfuscating data in SQL Server](https://timdeschryver.dev/blog/obfuscating-data-in-sql-server)
-- [What about my API documentation now that Swashbuckle (Swagger) is no longer a dependency in ASP.NET 9](https://timdeschryver.dev/blog/what-about-my-api-documentation-now-that-swashbuckle-is-no-longer-a-dependency-in-aspnet-9)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
