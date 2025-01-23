@@ -33,10 +33,10 @@ Also a hobby **runner**.
 ## Recent blog posts
 
 - [Improve the user experience of your application using (rx)resource](https://timdeschryver.dev/blog/improve-the-user-experience-of-your-application-using-rxresource)
+- [Automatically select the right Microsoft Entra tenant](https://timdeschryver.dev/blog/automatically-select-the-right-microsoft-entra-tenant)
 - [ESLint flat config with EcmaScript modules (mjs) in an NX workspace](https://timdeschryver.dev/blog/eslint-flat-config-with-ecmascript-modules-mjs-in-an-nx-workspace)
 - [Sending (browser) OpenTelemetry traces from an Angular Application to .NET Aspire](https://timdeschryver.dev/blog/Sending-browser-opentelemetry-traces-from-an-angular-application-to-net-aspire)
 - [Creating an Angular application that's used by different user groups](https://timdeschryver.dev/blog/creating-an-angular-application-thats-used-by-different-user-groups)
-- [Resolving a failing NX post-install](https://timdeschryver.dev/blog/resolving-a-failing-nx-post-install)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
