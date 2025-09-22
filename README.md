@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [Secure your Yarp BFF with cookie-based authentication](https://timdeschryver.dev/blog/secure-your-yarp-bff-with-cookie-based-authentication)
+- [Writing isolated (integration)tests with TestContainers](https://timdeschryver.dev/blog/writing-isolated-integrationtests-with-testcontainers)
+- [VS Code as a modern Full‑Stack workspace, Powered by Copilot](https://timdeschryver.dev/blog/vs-code-as-a-modern-full-stack-workspace-powered-by-copilot)
+- [Fire your Playwright tests on demand from the .NET Aspire dashboard](https://timdeschryver.dev/blog/fire-your-playwright-tests-on-demand-from-the-net-aspire-dashboard)
 - [ASP.NET 10: Validating incoming models in Minimal APIs](https://timdeschryver.dev/blog/aspnet-10-validating-incoming-models-in-minimal-apis)
-- [Vibe testing with Playwright](https://timdeschryver.dev/blog/vibe-testing-with-playwright)
-- [Using YARP as BFF within .NET Aspire: Integrating YARP into .NET Aspire](https://timdeschryver.dev/blog/integrating-yarp-within-dotnet-aspire)
-- [Writing resilient Angular Component tests (that use HttpResource) with HttpTestingController](https://timdeschryver.dev/blog/writing-resilient-angular-component-tests-that-use-httpresource-with-httptestingcontroller)
-- [Some observations while writing my first Azure Function](https://timdeschryver.dev/blog/some-observations-while-writing-my-first-azure-function)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
