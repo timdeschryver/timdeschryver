@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [Refactoring a form to a Signal Form](https://timdeschryver.dev/blog/refactoring-a-form-to-a-signal-form)
 - [Using the new bindings API to test Angular components with Angular Testing Library](https://timdeschryver.dev/blog/using-the-new-bindings-api-to-test-angular-components-with-angular-testing-library)
 - [Forwarding authenticated calls to a downstream API using YARP](https://timdeschryver.dev/blog/forwarding-authenticated-calls-to-a-downstream-api-using-yarp)
 - [Secure your Yarp BFF with cookie-based authentication](https://timdeschryver.dev/blog/secure-your-yarp-bff-with-cookie-based-authentication)
 - [Writing isolated (integration)tests with TestContainers](https://timdeschryver.dev/blog/writing-isolated-integrationtests-with-testcontainers)
-- [VS Code as a modern Full‑Stack workspace, Powered by Copilot](https://timdeschryver.dev/blog/vs-code-as-a-modern-full-stack-workspace-powered-by-copilot)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
