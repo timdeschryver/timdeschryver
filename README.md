@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [Using cookies for authentication in an Angular application](https://timdeschryver.dev/blog/using-cookies-for-authentication-in-an-angular-application)
 - [Write strongly typed Web API integration tests using Kiota and OpenAPI](https://timdeschryver.dev/blog/write-strongly-typed-web-api-integration-tests-using-kiota-and-openapi)
 - [Refactoring a form to a Signal Form](https://timdeschryver.dev/blog/refactoring-a-form-to-a-signal-form)
 - [Using the new bindings API to test Angular components with Angular Testing Library](https://timdeschryver.dev/blog/using-the-new-bindings-api-to-test-angular-components-with-angular-testing-library)
 - [Forwarding authenticated calls to a downstream API using YARP](https://timdeschryver.dev/blog/forwarding-authenticated-calls-to-a-downstream-api-using-yarp)
-- [Secure your Yarp BFF with cookie-based authentication](https://timdeschryver.dev/blog/secure-your-yarp-bff-with-cookie-based-authentication)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
