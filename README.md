@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [Using FusionCache's Backplane to synchronize HybridCache instances across multiple instances](https://timdeschryver.dev/blog/hybridcache-sync-with-fusioncache-backplane)
 - [Named global query filters in Entity Framework Core 10](https://timdeschryver.dev/blog/named-global-query-filters-in-entity-framework-core-10)
 - [Using cookies for authentication in an Angular application](https://timdeschryver.dev/blog/using-cookies-for-authentication-in-an-angular-application)
 - [Write strongly typed Web API integration tests using Kiota and OpenAPI](https://timdeschryver.dev/blog/write-strongly-typed-web-api-integration-tests-using-kiota-and-openapi)
 - [Refactoring a form to a Signal Form](https://timdeschryver.dev/blog/refactoring-a-form-to-a-signal-form)
-- [Using the new bindings API to test Angular components with Angular Testing Library](https://timdeschryver.dev/blog/using-the-new-bindings-api-to-test-angular-components-with-angular-testing-library)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
