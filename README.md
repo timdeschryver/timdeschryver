@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [Improve the quality of your Angular component snapshots with Vitest](https://timdeschryver.dev/blog/improve-the-quality-of-your-angular-component-snapshots-with-vitest)
 - [Changing how ASP.NET generates OpenAPI schema names](https://timdeschryver.dev/blog/changing-how-aspnet-generates-openapi-schema-names)
 - [Using FusionCache's Backplane to synchronize HybridCache instances across multiple instances](https://timdeschryver.dev/blog/hybridcache-sync-with-fusioncache-backplane)
 - [Named global query filters in Entity Framework Core 10](https://timdeschryver.dev/blog/named-global-query-filters-in-entity-framework-core-10)
 - [Using cookies for authentication in an Angular application](https://timdeschryver.dev/blog/using-cookies-for-authentication-in-an-angular-application)
-- [Write strongly typed Web API integration tests using Kiota and OpenAPI](https://timdeschryver.dev/blog/write-strongly-typed-web-api-integration-tests-using-kiota-and-openapi)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
