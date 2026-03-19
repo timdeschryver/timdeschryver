@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [Introducing Angular Testing Library Zoneless](https://timdeschryver.dev/blog/introducing-angular-testing-library-zoneless)
 - [Angular Signal Forms Keeps Improving (v21.2)](https://timdeschryver.dev/blog/angular-signal-forms-keeps-improving)
 - [A minimal way to integrate Aspire into your existing project](https://timdeschryver.dev/blog/a-minimal-way-to-integrate-aspire-into-your-existing-project)
 - [Improve the quality of your Angular component snapshots with Vitest](https://timdeschryver.dev/blog/improve-the-quality-of-your-angular-component-snapshots-with-vitest)
 - [Changing how ASP.NET generates OpenAPI schema names](https://timdeschryver.dev/blog/changing-how-aspnet-generates-openapi-schema-names)
-- [Using FusionCache's Backplane to synchronize HybridCache instances across multiple instances](https://timdeschryver.dev/blog/hybridcache-sync-with-fusioncache-backplane)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
