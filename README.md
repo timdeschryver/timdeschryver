@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [Running a production-like local environment with Aspire](https://timdeschryver.dev/blog/running-a-production-like-local-environment-with-aspire)
 - [Improve your AI coding agent with runtime context from Aspire MCP](https://timdeschryver.dev/blog/improve-your-ai-coding-agent-with-runtime-context-from-aspire-mcp)
 - [Keep Agentic AI Simple: A Practical Workflow for Software Development](https://timdeschryver.dev/blog/keep-agentic-ai-simple-a-practical-workflow-for-software-development)
 - [Containerize an ASP.NET Core BFF and Angular frontend using Aspire](https://timdeschryver.dev/blog/containerize-an-aspnet-core-bff-and-angular-frontend-using-aspire)
 - [Introducing Angular Testing Library Zoneless](https://timdeschryver.dev/blog/introducing-angular-testing-library-zoneless)
-- [Angular Signal Forms Keeps Improving (v21.2)](https://timdeschryver.dev/blog/angular-signal-forms-keeps-improving)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
