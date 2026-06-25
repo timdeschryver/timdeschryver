@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [Your first MCP server with ASP.NET](https://timdeschryver.dev/blog/your-first-mcp-server-with-aspnet)
 - [Using Agentic AI to create your own component library](https://timdeschryver.dev/blog/using-agentic-ai-to-create-your-own-component-library)
 - [Running a production-like local environment with Aspire](https://timdeschryver.dev/blog/running-a-production-like-local-environment-with-aspire)
 - [Improve your AI coding agent with runtime context from Aspire MCP](https://timdeschryver.dev/blog/improve-your-ai-coding-agent-with-runtime-context-from-aspire-mcp)
 - [Keep Agentic AI Simple: A Practical Workflow for Software Development](https://timdeschryver.dev/blog/keep-agentic-ai-simple-a-practical-workflow-for-software-development)
-- [Containerize an ASP.NET Core BFF and Angular frontend using Aspire](https://timdeschryver.dev/blog/containerize-an-aspnet-core-bff-and-angular-frontend-using-aspire)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
