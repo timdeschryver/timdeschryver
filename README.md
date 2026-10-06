@@ -32,11 +32,11 @@ Also a hobby **runner**.
 
 ## Recent blog posts
 
+- [Sprint Zero is about building momentum](https://timdeschryver.dev/blog/sprint-0-is-about-building-momentum)
 - [Scheduled AI in practice: turning telemetry into a daily health report](https://timdeschryver.dev/blog/scheduled-ai-in-practice-turning-telemetry-into-a-daily-health-report)
 - [Testing AI prompts and comparing models with promptfoo](https://timdeschryver.dev/blog/testing-ai-prompts-and-comparing-models-with-promptfoo)
 - [Your first MCP server with ASP.NET](https://timdeschryver.dev/blog/your-first-mcp-server-with-aspnet)
 - [Using Agentic AI to create your own component library](https://timdeschryver.dev/blog/using-agentic-ai-to-create-your-own-component-library)
-- [Running a production-like local environment with Aspire](https://timdeschryver.dev/blog/running-a-production-like-local-environment-with-aspire)
 - [More posts](https://timdeschryver.dev/blog)
 
 <!-- BLOG:END -->
